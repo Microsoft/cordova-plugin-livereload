@@ -1,3 +1,7 @@
+### As of March 2019, this repo is no longer maintained by Microsoft. If you're interested in continuing this project, please feel free to fork it. As of March 2019, we will no longer monitor or respond to open issues. Thanks for your support!
+
+---
+
 # cordova-plugin-livereload
 This plugin's goal is to integrate livereload and gestures synchronization across devices into the Cordova development workflow. It is based on BrowserSync.
 
